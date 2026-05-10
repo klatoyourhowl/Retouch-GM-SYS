@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gms xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://geosoft.com/gms2model.xsd">
+  <model2D version="1.0" id="45e9a43c-11c4-4d3a-80bc-022f8f80b515" type="Depth" last_modified="2026-05-10T11:55:22.2515614+07:00">
+    <coordinate_system>
+      <projection type="TRANSVERSE_MERCATOR" name="NZGD2000 / New Zealand Transverse Mercator 2000" wellknown_epsg="2193" projection="New Zealand Transverse Mercator 2000" ellipsoid="GRS 1980" datum="NZGD2000" datumtrf="NZGD2000 to WGS 84 (1)" datumtrf_epsg="1565" datumtrf_description="[NZGD2000] (1m) New Zealand" radius="6378137" eccentricity="0.081819191042815806" xmlns="http://www.geosoft.com/schema/geo">
+        <shift x="0" y="0" z="0" />
+        <parameters scale="0.9996" false_east="1600000" false_north="10000000" lat_origin="0" lon_origin="173" />
+        <units name="m" unit_scale="1" />
+      </projection>
+    </coordinate_system>
+  </model2D>
+</gms>
